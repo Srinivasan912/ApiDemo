@@ -1,0 +1,30 @@
+<empdetails>
+	<employeess>
+		<id>111</id>
+		<name>srini</name>
+		<salary>20000</salary>
+		<address>
+			<street>the Street</street>
+			<city>salem</city>
+			<state>Tamilnadu</state>
+		</address>
+		<mobilenumber>
+			<local>9876543210</local>
+			<international>9988776655443322</international>
+		</mobilenumber>
+	</employeess>
+	<employeess>
+		<id>222</id>
+		<name>vasan</name>
+		<salary>30000</salary>
+		<address>
+			<street>the Street</street>
+			<city>chennai</city>
+			<state>Tamilnadu</state>
+		</address>
+		<mobilenumber>
+			<local>9876543210</local>
+			<international>9988776655443322</international>
+		</mobilenumber>
+	</employeess>
+</empdetails>
